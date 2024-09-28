@@ -1,7 +1,7 @@
 **Features**
 
 **List View**: Displays a list of found GitHub users with basic information (username, profile picture).  
-**Detail View**: View a user's detailed profile information and recent activities.
+**Detail View**: View a user's detailed profile information and recent activities.  
 **Material Design UI**: Provides a clean and user-friendly interface following Material Design guidelines.
 
 Architecture: Clean Architecture (MVVM, Use Cases, Compose)
